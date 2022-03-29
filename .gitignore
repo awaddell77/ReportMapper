@@ -1,0 +1,5 @@
+
+*.exe
+ReportManager/ReportManager/bin/Debug/reportconfigs.xml
+*.txt
+*.cache
